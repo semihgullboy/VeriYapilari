@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Ödev1.1\Ödev1.1\Main.cpp(14,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Ödev1.1.vcxproj -> C:\Users\semih\OneDrive\Masaüstü\çalışmalar\Ödev1.1\x64\Debug\Ödev1.1.exe
